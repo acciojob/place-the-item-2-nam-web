@@ -3,6 +3,7 @@
 .box{
 	display:flex;
 	justify-content:center;
+	flex-wrap:wrap;
 }
 .box1{
 	width:100px;
