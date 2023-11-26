@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.box{
+	display:flex;
+	justify-content:center;
+}
+.box1{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.box2{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.box3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
